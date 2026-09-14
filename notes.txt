@@ -20,3 +20,7 @@ To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 
 PS C:\Users\USER\Desktop\test-repo>
+
+
+
+delte 
